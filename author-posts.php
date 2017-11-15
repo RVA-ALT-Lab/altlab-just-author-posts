@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: ALT Lab - Show Authors Only Their Own Posts
-Plugin URI: 
+Plugin URI: https://github.com/RVA-ALT-Lab/altlab-just-author-posts/
 Description: In a site with multiple authors restricts the posts view to only posts they wrote
 Author: Tom Woodward
 Version: 1.5
